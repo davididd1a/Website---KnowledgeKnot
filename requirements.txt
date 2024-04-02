@@ -9,6 +9,6 @@ requests
 sniffio
 soupsieve
 sqlparse
-tzdata==
+tzdata
 wikipedia==1.4.0
 youtube-search-python==1.6.6
